@@ -8,3 +8,5 @@
 [A very excellent website for reference](https://weijunext.com/article/indie-hacker-tech-stack-tools#%E5%BD%95%E5%B1%8F):
 3： 立党
 https://linktr.ee/lidang
+4: feedback the CV
+https://forum.freecodecamp.org/t/web-developer-no-experience-resume-examples/323852/23
